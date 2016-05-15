@@ -1,8 +1,8 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Thuyiya's CV 
+description: thusitha thiyushan's cv
 favicon: /assets/img/avatar.JPG
-baseurl: https://thuyiya.github.io
+baseurl: "" #https://thuyiya.github.io
 url: https://thuyiya.github.io
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Thusitha Thiyushan
+  title: Game Designer | Web Developer
+  address: Kandy, Sri Lanka
+  email: thusitha.4t@gmail.com
+  link: #thuyiya.lk
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: thuyiya
+  linkedin: thuyiya
+  twitter: thusitha4t
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -59,14 +59,11 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Sinhalese
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
@@ -78,8 +75,19 @@ author:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Mean Stack(NodeJs/ExpressJs/AngularJS)
       percentage: 70%
     - skill5:
       name: Java/Java EE
+      percentage: 60%
+    - skill6:
+      name: PHP
       percentage: 90%
+    - skill7:
+      name: C#
+      percentage: 90%
+    - skill8:
+      name: C/C++
+      percentage: 65%
+
+
