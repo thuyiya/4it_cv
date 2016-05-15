@@ -1,27 +1,41 @@
-# HPSTR Jekyll Theme
+# resumecard
+-------
+resumecard is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.  
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing [my first two themes](https://mademistakes.com/work/jekyll-themes/), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory.
+[![Build Status](https://travis-ci.org/ddbullfrog/resumecard.svg?branch=master)](https://travis-ci.org/ddbullfrog/resumecard)
 
-**Compatible with Jekyll 3.0 and up.**
+## Demo
+-------
+You can see the live demo of [resumecard](https://ddbullfrog.github.io/resumecard)
 
-## What HPSTR brings to the table:
+This is the web page on desktop browser.
 
-* Modern and minimal design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* [Syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) stylesheet to make your code examples look snazzy
-* [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
-
-![HPSTR Theme Preview screenshot](http://mmistakes.github.io/hpstr-jekyll-theme/images/hpstr-jekyll-theme-preview.jpg)
-
----
+![Desktop](https://github.com/ddbullfrog/resumecard/blob/gh-pages/_assets/normal.jpg)
 
 ## Getting Started
+-------
+- [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
+- Clone it: `git clone https://github.com/YOUR-USER/resumecard`
+- Run the jekyll server: `jekyll serve`
 
-HPSTR takes advantage of SCSS and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+You should have a server up and running locally at <http://localhost:4000>.
 
-To learn how to install and use this theme check out the [Setup Guide](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/) for more information.
+## Features
+-------
+- Responsive Jekyll theme
+- Easy integration with Google Analytics
+
+## Configuration
+-------
+- _config.yml
+-  CNAME
+	If you're using it on GitHub Pages with a custom domain name, 
+	you'll want to change it to be the domain you're going to use. 
+	All that should be in here is a domain name on the first line and nothing else (like: `example.com`).
+-  avatar.JPG
+	This is a smaller version of my gravatar for use as the icon in your browser's address bar. 
+	You should change it to whatever you'd like.
+
+## License
+-------
+Open sourced under the [MIT license](LICENSE.md).
