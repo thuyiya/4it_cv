@@ -28,35 +28,35 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: TSMS | Tea Supply Management System
+      location: for Thalapalakanada Tea Factory
+      title: git/ php/ javascript/ jQuery/ HTML5/ Bootstrap/ mySql/ balsamiq mockup/ Sms Getway
+      started: 15/02
+      duration: (2nd Year Group)
+      description: Web based Factory Tea Supply Management System and Message alert system. For Tea Factory. system also provide transaction report, bills, monthly transection summery etc.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: CPR SIMULATOR | with Virtual Reality
+      location: for Colombo General Hospital
+      title: Git/ C/ C++ / c#/ Unity3D/ arduino/trello
+      started: 16/03
+      duration: (3rd Year Project(ongoing))
+      description: CPR Simulator with Virtual Reality for, Inability of medical practitioners to get the real experience without actually involved in critical medical situations. 
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Hospital Dispatch | General Hospital Colombo
+      location: for General Hospital Colombo
+      title: git/ JavaEE/ javascript/ jQuery/ HTML5/ Bootstrap/ mySql/ Tomcat
+      started: 16/01
+      duration: (On Going)
+      description: patient queue control/bill generate/ date scheduling/ patient report, history... etc.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+      organization: University of Colombo School of Computing
+      location: 35 Philip Gunewardena Mawatha, Colombo
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Computer Science
+      started: 2013
+      duration: (2013 - 2016)
+      description: Undergraduate BSc in Computer Science.
   languages:
     - language1:
       name: Sinhalese
@@ -67,7 +67,7 @@ author:
   programmingSkills:
     - skill1:
       name: HTML
-      percentage: 100%
+      percentage: 90%
     - skill2:
       name: Bootstrap
       percentage: 90%
